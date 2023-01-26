@@ -11,6 +11,8 @@ import jpa.ej1.libreria.entidades.Editorial;
 import jpa.ej1.libreria.entidades.Libro;
 
 public class LibroServicio {
+    
+    //ROBERTO CARLOX
 
     Scanner leer = new Scanner(System.in);
 
