@@ -8,7 +8,7 @@ import jpa.ej1.libreria.entidades.Editorial;
 public class EditorialServicio {
     
     
- // PROBANDO BRANCH 2
+ // PROBANDO BRANCH 2 otra vez
 
     Scanner leer = new Scanner(System.in);
 
