@@ -8,8 +8,7 @@ import jpa.ej1.libreria.entidades.Editorial;
 public class EditorialServicio {
     
     
-      //ROBERTO CARLOX
-   //ROBERTOX CARLO
+ // PROBANDO BRANCH 2
 
     Scanner leer = new Scanner(System.in);
 
